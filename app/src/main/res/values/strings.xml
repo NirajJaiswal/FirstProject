@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatherApi</string>
+    <string name="degree_celsius">℃</string>
+</resources>
